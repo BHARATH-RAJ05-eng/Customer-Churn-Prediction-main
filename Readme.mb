@@ -60,7 +60,7 @@ Make sure you have Python and pip installed on your system.
 
 1.  Clone the repo
     ```sh
-    git clone [https://github.com/your-username/your-repo.git](https://github.com/your-username/your-repo.git)
+    git clone https://github.com/BHARATH-RAJ05-eng/Customer-Churn-Prediction-main.git
     ```
 2.  Navigate to the project directory
     ```sh
@@ -116,11 +116,12 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - BHARATH RAJ B - bharath200623@gmail.com
 
-Project Link: [https://github.com/your-username/your-repo](https://github.com/your-username/your-repo)
+Project Link:https://github.com/BHARATH-RAJ05-eng/Customer-Churn-Prediction-main.git
 
 ## Acknowledgements
 
 🙏 This project is based on an open-source dataset and analysis. Credit to the original source.
 * [Link to original project/dataset]
 * [Img Shields](https://shields.io)
+
 * [Choose an Open Source License](https://choosealicense.com)
